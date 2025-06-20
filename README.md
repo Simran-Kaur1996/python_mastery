@@ -1,4 +1,3 @@
-# python_mastery
 # 🐍 Python Mastery Notes
 
 > 🚀 A structured, hands-on Python learning repo – focused on mastering core concepts, data structures, exceptions, OOP, popular libraries, and beginner ML.
